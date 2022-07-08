@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frostist
-- 👀 I’m interested in app development, learning full stack development and just coding in general
+- 👀 I’m interested in app development, learning full stack development and just coding in general!
 - 🌱 I’m currently learning php, java, swift and dart.
 - 💞️ I’m looking to collaborate on any sort of small to big projects just to learn more!
 - 📫 How to reach me dm me on twitter or comment on any of my gituhb stuff
