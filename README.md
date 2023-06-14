@@ -15,7 +15,6 @@
 
 # Check out this
 
-- 🚀 If you need any webdev stuff check out [Kemi Studio](https://www.kemi.studio)
 - ☀️ My Homekit stuff on my other [README](https://github.com/Frostist/Will-s-Homekit-Stuff)
 
 <!---
