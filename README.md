@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Frostist or Will
 - 💞️ I’m looking to collaborate on any sort of small to big projects just to learn more!
 - 📫 Reach me on twitter or comment on any of my gituhb stuff.
--   I do like Apple a bit too much.
+- 🍏 I do like Apple a bit too much.
 - 🔍 I also like Google a bit too much as well.
 
 # What I am currently doing
