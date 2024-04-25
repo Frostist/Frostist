@@ -1,8 +1,6 @@
 # Who am I?
 
-- 👋 Hi, I’m @Frostist or Will
-- 💞️ I’m looking to collaborate on any sort of small to big projects just to learn more!
-- 📫 Reach me on twitter or comment on any of my gituhb stuff.
+- 👋 Hi, I’m Will
 - 🍏 I do like Apple a bit too much.
 - 🔍 I also like Google a bit too much as well.
 
@@ -10,8 +8,8 @@
 
 - 🏠 I am a big lover of Homekit Stuff, and I have been building/trying to build more Homekit ESP8266 programs.
 - 👀 I’m interested in app development, I mainly build Swift apps.
-- 🌱 I’m currently learning php, java, swift and dart.
-- ⛵️ I have built a few programs using the codeignite platform, and I love full stack development stuff.
+- 🌱 I’m currently learning php, java, swift.
+- ⛵️ I have built a few programs using the larvel platform, and I love full stack development stuff.
 
 # Check out this
 
