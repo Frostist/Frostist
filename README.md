@@ -1,15 +1,15 @@
 # Who am I?
 
-- 👋 Hi, I’m Will
-- 🍏 I do like Apple a bit too much.
-- 🔍 I also like Google a bit too much as well.
+- 👋 I am just a guy who loves creating small projects.
+- 🍏 I mainly creat Swfit projects.
+- 🔍 I also work with PHP and Moodle quite a bit.
 
 # What I am currently doing
 
 - 🏠 I am a big lover of Homekit Stuff, and I have been building/trying to build more Homekit ESP8266 programs.
-- 👀 I’m interested in app development, I mainly build Swift apps.
-- 🌱 I’m currently learning php, java, swift.
-- ⛵️ I have built a few programs using the larvel platform, and I love full stack development stuff.
+- 👀 I am interested in creating App's for apples platforms.
+- 🌱 I’m currently learning swift, php and mysql.
+- ⛵️ My main platforms i build on is [Swift](https://www.swift.org), [Laravel](https://laravel.com) and [Moodle.](https://www.swift.org)
 
 # Check out this
 
