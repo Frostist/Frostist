@@ -9,7 +9,7 @@
 - 🏠 I am a big lover of Homekit Stuff, and I have been building/trying to build more Homekit ESP8266 programs.
 - 👀 I am interested in creating App's for apples platforms.
 - 🌱 I’m currently learning swift, php and mysql.
-- ⛵️ My main platforms i build on is [Swift](https://www.swift.org), [Laravel](https://laravel.com) and [Moodle.](https://www.swift.org)
+- ⛵️ My main platforms I build on is [Swift](https://www.swift.org), [Laravel](https://laravel.com) and [Moodle.](https://www.swift.org)
 
 # Check out this
 
