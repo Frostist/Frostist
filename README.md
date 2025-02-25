@@ -1,6 +1,7 @@
 # Newest Projects
 
-- 👨🏻‍💻 An app called [PatchUp](https://apple.co/3Cvea8j) available on only iOS
+- 👨🏻‍💻 A app called [PatchUp](https://apps.apple.com/app/apple-store/id6705129992?pt=127084921&ct=GitHub&mt=8) for allowing users to see patch notes for there favorite video games!
+- 👨🏻‍💻 A Game called [Boulder Climber](https://apps.apple.com/app/apple-store/id6741115915?pt=127084921&ct=GitHub&mt=8) where you are a boulder!
 
 # Who am I?
 
