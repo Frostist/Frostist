@@ -1,7 +1,8 @@
 # Newest Projects
 
-- 👨🏻‍💻 A app called [PatchUp](https://apps.apple.com/app/apple-store/id6705129992?pt=127084921&ct=GitHub&mt=8) for allowing users to see patch notes for there favourite video games!
-- 👨🏻‍💻 A Game called [Boulder Climber](https://apps.apple.com/app/apple-store/id6741115915?pt=127084921&ct=GitHub&mt=8) where you are a boulder!
+- 👨🏻‍💻 A app called [PatchUp](https://apps.apple.com/app/apple-store/id6705129992?pt=127084921&ct=GitHub&mt=8) for allowing users to see patch notes for there favourite video games.
+- 👨🏻‍💻 A Game called [Boulder Climber](https://apps.apple.com/app/apple-store/id6741115915?pt=127084921&ct=GitHub&mt=8) where you are a boulder.
+- 👨🏻‍💻 A Formula note taking app [FormuNote](https://apps.apple.com/app/apple-store/id6742996433?pt=127084921&ct=Github&mt=8) that i created for engineering students to take notes.
 
 # Who am I?
 
