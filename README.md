@@ -18,3 +18,4 @@
 # Check out this
 - 🤠 Give me a follow on [Bluesky](https://bsky.app/profile/willreefrost.bsky.social)
 - ☀️ My Homekit stuff on my other [README](https://github.com/Frostist/Will-s-Homekit-Stuff)
+- 🕸️ My Framer React Components library for others to use! [README](https://github.com/Frostist/framer-react-components)
