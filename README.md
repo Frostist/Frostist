@@ -1,19 +1,10 @@
-# Newest Projects
-
-- 👨🏻‍💻 A app called [PatchUp](https://apps.apple.com/app/apple-store/id6705129992?pt=127084921&ct=GitHub&mt=8) for allowing users to see patch notes for there favourite video games.
-- 👨🏻‍💻 A Game called [Boulder Climber](https://apps.apple.com/app/apple-store/id6741115915?pt=127084921&ct=GitHub&mt=8) where you are a boulder.
-- 👨🏻‍💻 A Formula note taking app [FormuNote](https://apps.apple.com/app/apple-store/id6742996433?pt=127084921&ct=Github&mt=8) that i created for engineering students to take notes.
-- 👨🏻‍💻 A MacOS app that takes your meeting notes and using a local LLM turns them into tasks [CueTask](https://apps.apple.com/app/apple-store/id6745791393?pt=127084921&ct=Github&mt=8).
-- 👨🏻‍💻 A really awesome WhatsApp bot that connects to your Notion account and has a local LLM to answer questions for you [ClearTask](https://wa.me/message/336XLBSHYTSGL1).
-  
 # Who am I?
-
 - 👋 I like to think of myself as an inventor, creating products & services that are somewhat new.
-- 🍏 I love working with Swift, Html, PHP and LAMP servers.
-- 🔍 I like to see myself as a full stack dev.
+- 🍏 I love working with Swift, NodeJS, React, Html, PHP and LAMP servers.
+- 🔍 I like to see myself as a full stack dev, working with Mobile app and WebApp Spheres.
 
 # What I am currently doing
-
+- 💻 Writing awesome code and creating cool projects. Check out my website: Willfrost.co.za
 - 🏠 I am a big lover of Homekit Stuff, and I have been building/trying to build more Homekit ESP8266 programs.
 - ⛵️ My main platforms I build on is [Swift](https://www.swift.org), [Laravel](https://laravel.com) and [Moodle.](https://moodle.org)
 
