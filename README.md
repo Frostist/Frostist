@@ -4,7 +4,7 @@
 - 🔍 I like to see myself as a full stack dev, working with Mobile app and WebApp Spheres.
 
 # What I am currently doing
-- 💻 Writing awesome code and creating cool projects. Check out my website: [Willfrost.co.za](willfrost.co.za)
+- 💻 Writing awesome code and creating cool projects. Check out my website: [Willfrost.co.za](https://willfrost.co.za)
 - 🏠 I am a big lover of Homekit Stuff, and I have been building/trying to build more Homekit ESP8266 programs.
 - ⛵️ My main platforms I build on is [Swift](https://www.swift.org), [Laravel](https://laravel.com) and [Moodle.](https://moodle.org)
 
