@@ -1,5 +1,5 @@
 # Who am I?
-- 👋 My name is Will, I am a skilled inventory that likes to believe I can build anything I put my mind to!
+- 👋 My name is Will, I am a skilled inventor that likes to believe I can build anything I put my mind to!
 - 🍏 I love working with Swift, NodeJS, React, Html, PHP and LAMP servers + Alot more!
 - 🔍 I like to see myself as a full stack dev, working within the Mobile App and WebApp Spheres.
 
