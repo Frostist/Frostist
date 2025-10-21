@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frostist - Will Frost</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 50%, #0f1429 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Courier New', monospace;
+            color: #00d9ff;
+            overflow-x: hidden;
+        }
+
+        .hero-container {
+            text-align: center;
+            padding: 2rem;
+            animation: fadeIn 2s ease-in;
+        }
+
+        .ascii-art {
+            font-size: clamp(8px, 1.2vw, 16px);
+            line-height: 1;
+            white-space: pre;
+            color: #00d9ff;
+            text-shadow: 0 0 10px #00d9ff, 0 0 20px #00d9ff;
+            margin-bottom: 2rem;
+            animation: glow 3s ease-in-out infinite alternate;
+        }
+
+        .character-art {
+            font-size: clamp(10px, 1.5vw, 18px);
+            line-height: 1.2;
+            white-space: pre;
+            color: #88d4ff;
+            text-shadow: 0 0 5px #88d4ff;
+            margin: 2rem 0;
+        }
+
+        .subtitle {
+            font-size: clamp(14px, 2vw, 20px);
+            color: #66b3ff;
+            margin-top: 2rem;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        .snowflakes {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .snowflake {
+            position: absolute;
+            color: rgba(255, 255, 255, 0.3);
+            animation: fall linear infinite;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes glow {
+            from { text-shadow: 0 0 10px #00d9ff, 0 0 20px #00d9ff; }
+            to { text-shadow: 0 0 20px #00d9ff, 0 0 40px #00d9ff, 0 0 60px #0099cc; }
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 0.7; }
+            50% { opacity: 1; }
+        }
+
+        @keyframes fall {
+            to { transform: translateY(100vh); }
+        }
+
+        @media (max-width: 768px) {
+            .ascii-art {
+                font-size: 6px;
+            }
+            .character-art {
+                font-size: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="snowflakes" id="snowflakes"></div>
+
+    <div class="hero-container">
+        <div class="character-art">
+            ❄️                 ☃️                 ❄️
+         (◕‿◕)              ^_^              (◠‿◠)
+          /|\               /|\               /|\
+          / \               / \               / \
+        </div>
+
+        <div class="ascii-art">
+  ███████╗ ██████╗  ██████╗ ███████╗████████╗██╗███████╗████████╗
+  ██╔════╝ ██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██║██╔════╝╚══██╔══╝
+  █████╗   ██████╔╝██║   ██║███████╗   ██║   ██║███████╗   ██║
+  ██╔══╝   ██╔══██╗██║   ██║╚════██║   ██║   ██║╚════██║   ██║
+  ██║      ██║  ██║╚██████╔╝███████║   ██║   ██║███████║   ██║
+  ╚═╝      ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝╚══════╝   ╚═╝
+        </div>
+
+        <div class="character-art">
+    *  .  *   ❅    *   .   *    ❅   *  .   *
+      ❄️              ☃              ❄️
+    (｡◕‿◕｡)          ♪~ ᕕ(ᐛ)ᕗ          (✿◠‿◠)
+       |               |               |
+      /|\             /|\             /|\
+      / \             / \             / \
+    *   .   ❅   *  .  *   ❅    *   .   *
+        </div>
+
+        <div class="subtitle">
+            ⋆｡°✩ Full-Stack Developer ⋆｡°✩
+            <br>
+            ❄️ Swift | React | Node.js | Next.js | Laravel ❄️
+        </div>
+    </div>
+
+    <script>
+        // Create falling snowflakes
+        function createSnowflake() {
+            const snowflake = document.createElement('div');
+            snowflake.classList.add('snowflake');
+            snowflake.textContent = ['❄', '❅', '❆', '*'][Math.floor(Math.random() * 4)];
+            snowflake.style.left = Math.random() * 100 + 'vw';
+            snowflake.style.animationDuration = (Math.random() * 3 + 2) + 's';
+            snowflake.style.fontSize = (Math.random() * 10 + 10) + 'px';
+            document.getElementById('snowflakes').appendChild(snowflake);
+
+            setTimeout(() => {
+                snowflake.remove();
+            }, 5000);
+        }
+
+        setInterval(createSnowflake, 200);
+    </script>
+</body>
+</html>
