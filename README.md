@@ -30,6 +30,16 @@
 
 ---
 
+<div align="center">
+
+## ❄️ My Coding Languages ❄️
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostist&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=88d4ff&icon_color=00d9ff&langs_count=8&hide_border=false&border_radius=10)
+
+</div>
+
+---
+
 # Who am I?
 - 👋 My name is Will, I am a skilled inventor that likes to believe I can build anything I put my mind to!
 - 🍏 I love working with Swift, NodeJS, React, Html, PHP and LAMP servers + Alot more!
