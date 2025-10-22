@@ -38,5 +38,6 @@
 - ⛵️ My main platforms I build on is [Swift](https://www.swift.org), [Laravel](https://laravel.com) and [Next.js](https://nextjs.org)
 
 # Check out this
+- 🤩 Give me a follow on [LinkedIn](https://www.linkedin.com/in/willreefrost/)
 - 🤠 Give me a follow on [Bluesky](https://bsky.app/profile/willreefrost.bsky.social)
 - ☀️ My Homekit stuff: [README](https://github.com/Frostist/Will-s-Homekit-Stuff)
