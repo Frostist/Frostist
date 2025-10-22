@@ -9,7 +9,7 @@
 
 <div align="center">
 
-⋆｡°✩ **Full-Stack Developer** ⋆｡°✩
+⋆｡°✩ **Full-Stack Developer** ✩°｡⋆
 
 ❄️ *Swift | React | Node.js | Next.js | Laravel* ❄️
 
