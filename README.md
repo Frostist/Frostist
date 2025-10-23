@@ -21,7 +21,7 @@
 
 ## ❄️ My Coding Languages ❄️
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostist&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=88d4ff&icon_color=00d9ff&langs_count=8&hide_border=false&border_radius=10&card_width=600)
+![Top Languages](https://github-readme-stats-gamma-rouge-14.vercel.app/api/top-langs/?username=Frostist&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=88d4ff&icon_color=00d9ff&langs_count=8&hide_border=false&border_radius=10&card_width=600)
 
 </div>
 
