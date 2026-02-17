@@ -17,7 +17,7 @@
       <strong>🍎 Apple</strong><br><br>
       <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/-SwiftUI-0062D3?style=flat&logo=swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/-AppleOS-000000?style=flat&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AppleOS-0B100F?style=flat&logo=apple&logoColor=white" />
     </td>
     <td align="center">
       <strong>🌐 Web</strong><br><br>
@@ -29,7 +29,7 @@
       <strong>🛠️ Tools</strong><br><br>
       <img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/-Windsurf-0B100F?style=flat&logo=windsurf&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CLI-000000?style=flat&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CLI-0B100F?style=flat&logo=gnu-bash&logoColor=white" />
     </td>
   </tr>
 </table>
