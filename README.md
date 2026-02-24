@@ -27,7 +27,7 @@
       <strong>🌐 Web</strong><br><br>
       <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Web-4285F4?style=flat&logo=google-chrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/-HTML-4285F4?style=flat&logo=google-chrome&logoColor=white" />
 </br>
       <img src="https://img.shields.io/badge/-Bun-f472b6?style=flat&logo=bun&logoColor=white" />
       <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
