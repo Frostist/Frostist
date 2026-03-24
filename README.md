@@ -52,16 +52,16 @@
 ---
 
 # Who am I?
-- 👋 My name is Will, I am a skilled inventor that likes to believe I can build anything I put my mind to!
-- 🍏 I love working with Swift, NodeJS, React, Html, PHP and LAMP servers + Alot more!
-- 🔍 I like to see myself as a full stack dev, working within the Mobile App and WebApp Spheres.
+- 👋🏻 My name is Will
+- 🇿🇦 I Live in Cape Town
+- 🤩 I enjoy making apps for the Apple AppStore
 
-# What I am currently doing
-- 💻 Writing awesome code and creating cool projects. Check out my website: [Willfrost.co.za](https://willfrost.co.za)
-- 🏠 I am a big lover of Homekit Stuff, and I have been building/trying to build more Homekit ESP8266 programs.
-- ⛵️ My main platforms I build on is [Swift](https://www.swift.org), [Laravel](https://laravel.com) and [Next.js](https://nextjs.org)
+# What am I?
+- 👨🏻‍💻 I like Coding (da...) & Code in mainly Swift and Laravel
+- 💡 I also enjoy programming Homekit esp boards and making cool stuff
+- 🍥 I love good design and enjoy making things look good, and prefer form over function
 
-# Check out this
-- 🤩 Give me a follow on [LinkedIn](https://www.linkedin.com/in/willreefrost/)
-- 🤠 Give me a follow on [Bluesky](https://bsky.app/profile/willreefrost.bsky.social)
-- ☀️ My Homekit stuff: [README](https://github.com/Frostist/Will-s-Homekit-Stuff)
+# What can you do?
+- 💸 If you enjoy any of my app's on the [AppStore](https://apple.co/4uJZ8SR) feel free to sponsor me, I hate ads and paywalls, so all my apps come without them.
+- ⚙️ If you find bugs or issues in any of my stuff, feel free to reach out so they can be fixed!
+- ⭐️ If you also want to colab on any cool projects, reach out, I'd love to help!
