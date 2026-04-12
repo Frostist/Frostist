@@ -58,7 +58,7 @@
 # What am I?
 - 👨🏻‍💻 I like Coding (da...) & Code in mainly Swift and Laravel
 - 💡 I also enjoy programming Homekit esp boards and making cool stuff
-- 🍥 I love good design and enjoy making things look good, and prefer form over function
+- 🍥 I love good design and enjoy making things look cool, and prefer form over function
 
 # What can you do?
 - 💸 If you enjoy any of my app's on the [AppStore](https://apple.co/4uJZ8SR) feel free to sponsor me, I hate ads and paywalls, so all my apps come without them.
