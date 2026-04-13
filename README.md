@@ -61,6 +61,6 @@
 - 🍥 I love good design and enjoy making things look cool, and prefer form over function
 
 # What can you do?
-- 💸 If you enjoy any of my app's on the [AppStore](https://apple.co/4uJZ8SR) feel free to sponsor me, I hate ads and paywalls, so all my apps come without them.
+- 💸 If you enjoy any of my app's [AppStore](https://apple.co/4uJZ8SR) feel free to sponsor me, I hate ads and paywalls, so all my apps come without them.
 - ⚙️ If you find bugs or issues in any of my stuff, feel free to reach out so they can be fixed!
 - ⭐️ If you also want to colab on any cool projects, reach out, I'd love to help!
